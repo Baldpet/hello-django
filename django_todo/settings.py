@@ -26,7 +26,7 @@ SECRET_KEY = 'eeux*%^aj7c&v&aml*&s4jmkm_-7^ha86=(q33^htk&)4faz1b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['baldpet-django-todo-app.herokuapp.com']
 
 
 # Application definition
